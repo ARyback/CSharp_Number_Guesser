@@ -10,6 +10,8 @@ namespace NumberGuesser
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello this is my world");
         }
     }
 }
+
